@@ -1,7 +1,15 @@
 {
-  "name": "venia-app",
+  "name": "alt-store",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Daniel Platon",
+    "email": "dplaton@pm.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dplaton/alt-store"
+  },
   "dependencies": {
     "@adobe/aem-core-cif-react-components": "^1.4.0",
     "@magento/peregrine": "3.0.0",
